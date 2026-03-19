@@ -1,4 +1,4 @@
-# 🚗 Preto Jato – Estética Automotiva
+#  Preto Jato – Estética Automotiva
 
 ![Preview do site](./public/preview.png) <!-- Substitua pelo caminho de uma imagem real se desejar -->
 
@@ -11,7 +11,7 @@ Site institucional da **Preto Jato**, uma empresa especializada em estética aut
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - **Design moderno e responsivo** – Funciona perfeitamente em dispositivos móveis, tablets e desktops.
 - **Menu mobile** com animação suave (Framer Motion).
@@ -36,7 +36,7 @@ Site institucional da **Preto Jato**, uma empresa especializada em estética aut
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - [React 18](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -52,12 +52,12 @@ Site institucional da **Preto Jato**, uma empresa especializada em estética aut
 
 ---
 
-## 📁 Estrutura de Pastas
+##  Estrutura de Pastas
 
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 - Node.js (versão 18 ou superior)
