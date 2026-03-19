@@ -106,6 +106,12 @@ const ScheduleSection = () => {
                     locale={ptBR}
                     initialFocus
                     className="p-3 pointer-events-auto"
+                    classNames={{
+                      // Destacar o dia de hoje de forma sutil: apenas borda e negrito
+                      day_today: "text-primary font-bold border border-primary/30",
+                      // Dia selecionado com fundo vermelho forte
+                      day_selected: "bg-primary text-primary-foreground hover:bg-primary hover:text-primary-foreground focus:bg-primary focus:text-primary-foreground",
+                    }}
                   />
                 </PopoverContent>
               </Popover>
